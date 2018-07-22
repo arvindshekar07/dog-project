@@ -114,3 +114,20 @@ When you are ready to submit your project, collect the following files and compr
 - Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+Additional references:
+- [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+- [Convolutional neural networks are fantastic for visual recognition tasks.](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
+- [What is the difference between using a Haar classifier and CNN for face and other recognition?](https://www.quora.com/What-is-the-difference-between-using-a-Haar-classifier-and-CNN-for-face-and-other-recognition)
+- [Face Detection using Haar Cascades](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)
+- [Face detection with OpenCV and deep learning](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
+- [Transfer Learning in TensorFlow on the Kaggle Rainforest competition](https://medium.com/@luckylwk/transfer-learning-in-tensorflow-on-the-kaggle-rainforest-competition-4e978fadb571)
+- [MIT: Computer Vision - Deep Learning for Self-Driving Cars(2018 version)](https://www.youtube.com/watch?v=CLOAswsxudo)
+- [transfer learning](https://towardsdatascience.com/transfer-learning-using-keras-d804b2e04ef8)
+- [Transfer learning - Kaggle Rainforest competition](https://medium.com/@luckylwk/transfer-learning-in-tensorflow-on-the-kaggle-rainforest-competition-4e978fadb571)
+- [transfer learning - Fine tuning](https://deeplearningsandbox.com/how-to-use-transfer-learning-and-fine-tuning-in-keras-and-tensorflow-to-build-an-image-recognition-94b0b02444f2)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [HAAR vs CNN](https://www.quora.com/What-is-the-difference-between-using-a-Haar-classifier-and-CNN-for-face-and-other-recognition)
+- [L2 REGULIZERS](https://www.youtube.com/watch?v=CEFcwpBneFo)
+- []()
+- []()

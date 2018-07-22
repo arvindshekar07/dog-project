@@ -173,3 +173,6 @@ venv.bak/
 /dogImages
 /dogImages/**/*
 /.idea/vcs.xml
+/saved_models/
+
+saved_models/weights.best.InceptionV3.hdf5
